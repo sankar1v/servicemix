@@ -57,7 +57,7 @@
         <cxf.version>3.1.5</cxf.version>
         <derby.bundle.version>10.11.1.1_1</derby.bundle.version>
         <drools.bundle.version>${drools.version}_1</drools.bundle.version>
-        <drools.version>5.6.0.Final</drools.version>
+        <drools.version>6.2.0.Final</drools.version>
         <drools6.version>6.2.0.Final</drools6.version>
         <eclipse.jdt.version>4.4</eclipse.jdt.version>
         <fasterxml.jackson.version>2.6.3</fasterxml.jackson.version>
