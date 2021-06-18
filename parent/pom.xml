@@ -38,7 +38,7 @@
 
     <!-- Properties -->
     <properties>
-        <activemq.version>5.13.3</activemq.version>
+        <activemq.version>5.15.6</activemq.version>
         <activiti.version>5.19.0.2</activiti.version>
         <akka.version>2.3.9</akka.version>
         <aries.blueprint.core.version>1.6.1</aries.blueprint.core.version>
@@ -81,7 +81,7 @@
         <mybatis.version>3.3.0</mybatis.version>
         <osgi.version>6.0.0</osgi.version>
         <pax.exam.version>4.9.1</pax.exam.version>
-        <pax.logging.version>1.8.5</pax.logging.version>
+        <pax.logging.version>1.11.0</pax.logging.version>
         <pax.url.version>2.4.7</pax.url.version>
         <postgresql.version>9.1-901</postgresql.version>
         <reflections.bundle.version>0.9.10_3</reflections.bundle.version>
