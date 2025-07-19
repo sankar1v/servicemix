@@ -39,7 +39,7 @@
     <description>CXF example using WSN</description>
 
     <properties>
-        <cxf-version>${cxf.version}</cxf-version>
+        <cxf-version>3.5.11</cxf-version>
     </properties>
 
 </project>
